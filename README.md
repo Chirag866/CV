@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# chatAppInAndroidStudio
+This chat app is created in android studio using java and firebase
+Some of the Output screens
+![image](https://user-images.githubusercontent.com/64765400/119440006-5a5e0100-bcd8-11eb-88fb-0712bb223f78.png)
 
-You can use the [editor on GitHub](https://github.com/Chirag866/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/64765400/119440053-706bc180-bcd8-11eb-8bb7-2f0b6c5c43df.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/64765400/119440063-75307580-bcd8-11eb-8da2-f3629f67c145.png)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/64765400/119440078-7f527400-bcd8-11eb-97bc-287362d5d764.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/64765400/119440082-82e5fb00-bcd8-11eb-9c99-3dfeae3e17ee.png)
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/64765400/119440112-91ccad80-bcd8-11eb-9bba-8e7c24034da4.png)
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/64765400/119440138-9b561580-bcd8-11eb-8cdf-76c3a6a4d902.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chirag866/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/64765400/119440156-a14bf680-bcd8-11eb-9818-2533a8f1dfa4.png)
